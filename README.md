@@ -22,9 +22,9 @@ You can install this Chrome extension manually without needing the Chrome Web St
 2. Open Google Chrome and go to:
      ```bash
     chrome://extensions
-3. Enable Developer Mode (top-right toggle)
+3. Enable **Developer Mode** (top-right toggle)
 
-4. Click Load unpacked
+4. Click **Load unpacked**
 
 5. Select the folder you just downloaded
 
