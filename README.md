@@ -32,9 +32,10 @@ Done! You'll now see the extension icon in your toolbar.
 
 ---
 
-<p>Follow me on Instagram  <a href="https://instagram.com/prshv.2" target="_blank"> 
-  <img src="ig.png" width="10" height="10" alt="Instagram">
-</a></p>
+## 📱 Follow & Support
 
-💸 **UPI for donations:** `parshvagala@fam`
+- 📸 [Follow me on Instagram](https://instagram.com/prshv.2)
+- 💸 UPI ID for donations: `parshvagala@fam`
+
+---
 
