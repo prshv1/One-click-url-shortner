@@ -12,7 +12,7 @@ A Chrome extension that lets you shorten the current tab’s URL in **one click*
 
 ---
 
-## 🧪 How to Install the Extension Manually (for Users)
+## 📦 Installation
 
 You can install this Chrome extension manually without needing the Chrome Web Store:
 
