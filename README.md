@@ -34,7 +34,7 @@ Done! You'll now see the extension icon in your toolbar.
 
 ## 📱 Follow & Support
 
-- 📸 [Follow me on Instagram](https://instagram.com/prshv.2)
+- 📸 [Follow me on Instagram](https://www.instagram.com/parshva.0/)
 - 💸 UPI ID for donations: `parshvagala@fam`
 
 ---
