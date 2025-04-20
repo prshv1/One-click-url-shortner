@@ -28,8 +28,6 @@ You can install this Chrome extension manually without needing the Chrome Web St
 
 5. Select the folder you just downloaded
 
-Done! You'll now see the extension icon in your toolbar.
-
 ---
 
 ## 📱 Follow & Support
